@@ -7,6 +7,6 @@
 3. 선택자의 종류
 - .class
 - #id
-- *
+- \*
 - element
 - element,element, ...
