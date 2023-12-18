@@ -25,3 +25,15 @@
 1. 크롬 설치하고 개발자 도구 살펴보기
 2. 비주얼 스튜디오 코드와 확장 설치하기
 3. w3schools.com Tutorial 살펴보기
+
+# HTML5의 기본 구성
+1. 시작과 끝이 없는 태그는 "img", "br", "hr"이 있고, 태그의 구조는 속성(Attribute)과 속성값(Value)임
+2. HTML5 문서태그는 html, head, title, body, base, meta, link, style, script, h1 ...h6, div, span, p, br, hr 등이 있음
+
+## 텍스트와 링크 태그
+1. 제목과 본문 태그에는 h1...h6, p, br, hr, div, pre, 특수문자 등이 있음
+2. 글자 모양 태그에는 b, strong, i, em, small, sub, sup, ins, del, mark 등이 있음
+3. 하이퍼링크 태그 요소에는 a, href, URL 등이 있음
+- a : 하이퍼링크를 의미함
+- href : 파일의 경로(주소)
+- URL : 절대주소, 상대주소
