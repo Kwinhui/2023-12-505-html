@@ -12,3 +12,23 @@
 2. 마우스 오른쪽 버튼을 클릭해서 페이지 소스보기 선택
 3. 소스 보기 창에서 찾기(ctrl + F)를 선택
 4. 주요 태그의 개수 확인해보기
+
+# 리스트와 표
+1. 리스트 (list) 태그
+- <li> ol </li> : 순서가 있는 목록
+- <li> ul </li> : 순서가 없는 목록
+- <dt> dl </dt> : 정의 목록
+- <dd> dl </dd> : 정의 설명
+2. 테이블 (table) 태그
+- <table></table>
+- <th></th>
+- <td></td>
+
+# 입력양식 (폼)
+1. 입력 양식 유형
+- MDN : https://developer.mozilla.org/en-US/
+- Codepen : https://codepen.io/
+- html5와 CSS3 태그를 모두 외울 필요 없음. 이해한 후에 궁금한 것들은 MDN 또는 w3schools에서 검색하고, 검색 결과를 Codepen과 같은 온라인 에디터사이트에서 확인
+2. 입력 양식 작동 원리
+3. 다양한 양식 (form)태그
+4. MDN과 Codepen을 활용한 태그 연습

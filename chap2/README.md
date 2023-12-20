@@ -37,3 +37,9 @@
 - a : 하이퍼링크를 의미함
 - href : 파일의 경로(주소)
 - URL : 절대주소, 상대주소
+
+# 미디어 태그
+1. 이미지 태그에는 img, src, alt, width, height 등이 있음
+2. 오디오 태그는 <audio controls="controls"><source src="audio-1.mp3">type="audio/mpen"></audio>임
+3. 비디오 태그는 <video width="640" controls="controls"> <source src="STEP.mp4"type="video/mp4"></video> 임
+4. Youtube 영상 등 외부 영상을 삽입할 때에는 <iframe>......</iframe>까지의 소스를 HTML 코드에 붙여 넣고, 동영상 주소 부분을 제외하고 모두 삭제함
